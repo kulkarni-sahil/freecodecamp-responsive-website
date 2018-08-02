@@ -1,0 +1,33 @@
+.container{
+	display: grid;
+	grid-template-columns: auto;
+	justify-content: center;
+	margin : 0% 4% 4% 4%;
+	background-color: #DCDCDC;
+	padding: 1%;
+	box-shadow: 5px 10px #888888;
+	font-family: Trebuchet MS;
+}
+.central{
+	text-align: center;
+}
+#tribute-info{
+	margin-left: auto;
+	margin-right: auto;
+}
+#img-div{
+	background-color: white;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.spacing{
+	padding:2%;
+}
+img{
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
